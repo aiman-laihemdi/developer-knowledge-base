@@ -6,12 +6,12 @@ Mein persönliches Nachschlagewerk für Git und GitHub.
 
 Voraussetzung: Das Repository auf GitHub existiert bereits und ist leer..
 
-git init
-git add .
-git commit -m "chore: initial commit"
-git branch -M main
-git remote add origin https://github.com/USERNAME/REPOSITORY.git
-git push -u origin main
+git init |
+git add . |
+git commit -m "chore: initial commit" |
+git branch -M main |
+git remote add origin https://github.com/USERNAME/REPOSITORY.git |
+git push -u origin main |
 
 **Wichtig:** `USERNAME` und `REPOSITORY` durch die eigenen Angaben ersetzen.
 
